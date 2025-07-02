@@ -47,7 +47,7 @@ To provide key stakeholders and operations managers with a real-time view of per
 
 ## 📸 Preview
 
-![Dashboard Screenshot](Screenshot%202025-07-02%20125629.png)
+![Dashboard Screenshot](Screenshot%202025-07-02%20125629.png) (SEE IN FILES)
 
 ## 🚀 How to Run
 
